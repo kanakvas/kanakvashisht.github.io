@@ -1,4 +1,5 @@
 # kanakvashisht.github.io
+github/Passport size photo.jpg
 
 ## Interest Areas
 Energy & Power, Circular Economy, Fintech
